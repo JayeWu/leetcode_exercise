@@ -23,6 +23,8 @@ public class Leetcode6 {
         }
         Character[] cs = new Character[list.size()];
         cs = list.toArray(cs);
+        List<Integer> list2 = new ArrayList<>();
+
         char[] ccs = new char[list.size()];
         for (int i = 0; i < cs.length; i++) {
             ccs[i] = cs[i];
