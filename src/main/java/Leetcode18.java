@@ -22,4 +22,5 @@ public class Leetcode18 {
         }
         return new ArrayList<>(res);
     }
+
 }
